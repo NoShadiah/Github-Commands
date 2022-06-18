@@ -1,6 +1,6 @@
-Adding all files to git
-Initializing a git folder
-Commuting 
-Adding a git URL
-Checking URL
-Pushing to git
+git add .
+git init
+git commit
+git remote add origin
+git status
+git push
