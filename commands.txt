@@ -1,6 +1,6 @@
 git add .
 git init
-git commit
-git remote add origin
+git commit -m "commit message"
+git remote add origin <URL>
 git status
-git push
+git push -u <branch name>
